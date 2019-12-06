@@ -1,0 +1,2 @@
+# ProjectP_TadaOka_Client
+ただゐまおかゑりスピーカーのクライアント部分。WebRTCでストリーミングを行い、別口のSIPから司令を受ける。
